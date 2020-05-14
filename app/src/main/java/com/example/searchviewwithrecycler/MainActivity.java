@@ -59,6 +59,7 @@ public class MainActivity extends AppCompatActivity {
             }
         }
         adapter.filterList(filteredList);
+        // pushed to git
     }
 
     private void fillExampleList() {
